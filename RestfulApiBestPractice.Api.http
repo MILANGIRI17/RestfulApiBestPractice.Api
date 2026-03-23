@@ -1,6 +1,6 @@
 @RestfulApiBestPractice.Api_HostAddress = http://localhost:5088
 
-GET {{RestfulApiBestPractice.Api_HostAddress}}/weatherforecast/
+GET {{RestfulApiBestPractice.Api_HostAddress}}/Products
 Accept: application/json
 
-###
+##
